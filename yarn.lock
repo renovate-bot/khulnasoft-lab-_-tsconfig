@@ -7,7 +7,7 @@
   resolved "https://registry.yarnpkg.com/@khulnasoft/prettierrc/-/prettierrc-3.0.3.tgz#048d1950008707c46f1c6fc1997a0d1e24a7568d"
   integrity sha512-WKz0h9bOXlUwZMYUF4GHzQZzNd/h5oz5ARmPMUxHcvMcc+M3tm3/GNtpBenipJFp96VJBLGUQlgSUB13uGfe0w==
 
-prettier@^1.7.4:
-  version "1.19.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
-  integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==
+prettier@^3.0.0:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.6.2.tgz#ccda02a1003ebbb2bfda6f83a074978f608b9393"
+  integrity sha512-I7AIg5boAr5R0FFtJ6rCfD+LFsWHp81dolrFD8S79U9tb8Az2nGrJncnMSnys+bpQJfRUzqs9hnA81OAA3hCuQ==

@@ -28,6 +28,6 @@
   },
   "devDependencies": {
     "@khulnasoft/prettierrc": "^3.0.3",
-    "prettier": "^1.7.4"
+    "prettier": "^3.0.0"
   }
 }
